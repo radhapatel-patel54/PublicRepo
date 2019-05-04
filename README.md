@@ -6,4 +6,6 @@
    
  2. If tester needs to change sample dats can chane ot from dao class
  
+ 3. pointwise description is given in Solution descriotion document
+ 
  
